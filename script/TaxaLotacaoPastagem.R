@@ -10,7 +10,7 @@ library(tidyverse)
 
 path_outputs_tables <- "./Tabelas_bovinos/output_tabelas/"
 dir.create(path_outputs_tables)
-
+path_outputs_maps <- "./Maps"
 
 UF <- c('bahia', 'maranho', 'piau', 'tocantins')
 
@@ -56,7 +56,7 @@ DF <- do.call('rbind',lapply(tb_all, read.csv, sep = ";"))
 write.csv(DF, paste0(path_outputs_tables, "Rebanhos_Mun.csv"))
 
 ############# Maps
-#ler tif de lulc do bioma
+#ler tif de lulc do bioma e recortar para o matopiba
 lulc <- raster("./Maps/mapbiomas-brazil-collection-60-brasil-2020-0000000000-0000000000.tif")
 mask <- readOGR(dsn = "./Maps", layer = "Matopiba")
 
@@ -69,8 +69,33 @@ lulc_mask[lulc_mask != 15] <- 0
 lulc_mask[lulc_mask == 15] <- 1
 
 #Calcular a área de pasture por municipio
-
 ext <- raster::extract(lulc_mask, mask, sum, na.rm = T)
 
-#write.csv(ext, paste0(path_outputs_tables, bioma_n, ano[i], ".csv"))
+#write.csv(ext, paste0(path_outputs_tables, Pasture_zonal, ".csv"))
+
+
+##juntar todas as tabelas no shape dos municipios e exportar
+#ler tif shape dos municipios
+mato <- readOGR(dsn = "./Maps", layer = "Mun_MATOPIBA")
+class(mato$CD_GEOCMU) <- "integer"
+mato_df <- as.data.frame(mato)
+mato_df$CD_GEOCMU <- as.integer(mato_df$CD_GEOCMU)
+
+#ler a tabela de rebanhos
+bois <- read.csv(paste0(path_outputs_tables, "Rebanhos_Mun.csv"))
+
+##Ler tabela de pastagem por municipio (Zonal stats feita no arcgis - ou feia pelo script acima - linha 73)
+
+past <- read.csv(paste0(path_outputs_tables, "Pasture_zonal.csv"), sep = ";")
+
+new.df <- inner_join(mato_df, bois, by = c("CD_GEOCMU" = "codigo"))
+new.df <- full_join(new.df, past, by = c("CD_GEOCMU" = "CD_GEOCMU"))
+
+##Exporta a tabela total
+write.csv(new.df, paste0(path_outputs_tables, "joined_tables.csv"))
+
+#junta com o shape de municipios e exporta um novo shape com todas as informações
+mato_new <- merge(mato, new.df, by = "CD_GEOCMU", duplicateGeoms = T)
+
+writeOGR(mato_new, dsn = path_outputs_maps, layer = "Mun_all_tables", driver = "ESRI Shapefile")
 
