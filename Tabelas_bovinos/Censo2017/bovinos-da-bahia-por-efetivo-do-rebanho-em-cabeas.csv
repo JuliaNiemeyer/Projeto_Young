@@ -1,0 +1,418 @@
+Código;Nome;Valor
+2900405;Água Fria;7.418
+2900108;Aba�ra;4.388
+2900207;Abar�;6.067
+2900306;Acajutiba;11.345
+2900355;Adustina;15.344
+2900603;Aiquara;8.499
+2900702;Alagoinhas;8.032
+2900801;Alcobaça;26.692
+2900900;Almadina;8.711
+2901106;Am�lia Rodrigues;5.474
+2901155;Am�rica Dourada;9.409
+2901007;Amargosa;21.086
+2901205;Anag�;19.224
+2901304;Andaraí;14.067
+2901353;Andorinha;15.992
+2901403;Angical;58.026
+2901502;Anguera;5.579
+2901700;Ant�nio Cardoso;10.017
+2901809;Ant�nio Gonçalves;5.422
+2901601;Antas;17.434
+2901908;Aporá;25.205
+2901957;Apuarema;2.476
+2902054;Araças;5.298
+2902005;Aracatu;28.199
+2902104;Araci;18.004
+2902203;Aramari;5.924
+2902252;Arataca;708
+2902302;Aratuípe;4.303
+2902401;Aurelino Leal;22.701
+2902500;Baianópolis;37.097
+2902609;Baixa Grande;28.818
+2902658;Banzaê;8.507
+2902708;Barra;17.448
+2902807;Barra da Estiva;13.798
+2902906;Barra do Choça;23.349
+2903003;Barra do Mendes;11.049
+2903102;Barra do Rocha;5.625
+2903201;Barreiras;44.407
+2903235;Barro Alto;5.517
+2903300;Barro Preto;5.331
+2903276;Barrocas;3.832
+2903409;Belmonte;34.213
+2903508;Belo Campo;7.925
+2903607;Biritinga;9.446
+2903706;Boa Nova;13.698
+2903805;Boa Vista do Tupim;43.753
+2903904;Bom Jesus da Lapa;40.363
+2903953;Bom Jesus da Serra;5.699
+2904001;Boninal;8.386
+2904050;Bonito;6.502
+2904100;Boquira;19.314
+2904209;Botuporã;15.910
+2904308;Brejões;7.202
+2904407;Brejolândia;48.737
+2904506;Brotas de Maca�bas;10.058
+2904605;Brumado;36.557
+2904704;Buerarema;3.382
+2904753;Buritirama;19.490
+2906709;Cândido Sales;10.483
+2905107;Ca�m;13.658
+2904803;Caatiba;27.800
+2904852;Cabaceiras do Paraguaçu;4.982
+2907806;Cícero Dantas;31.501
+2904902;Cachoeira;10.692
+2905008;Cacul�;12.776
+2905156;Caetanos;11.025
+2905206;Caetit�;24.875
+2905305;Cafarnaum;5.627
+2905404;Cairu;44
+2905503;Caldeirão Grande;10.609
+2905701;Camaçari;4.197
+2905602;Camacan;10.714
+2905800;Camamu;1.589
+2905909;Campo Alegre de Lourdes;16.780
+2906006;Campo Formoso;30.622
+2906105;Canápolis;15.623
+2906204;Canarana;7.633
+2906303;Canavieiras;41.333
+2906402;Candeal;10.150
+2906501;Candeias;3.950
+2906600;Candiba;17.402
+2906808;Cansanção;16.680
+2906824;Canudos;8.340
+2906857;Capela do Alto Alegre;19.856
+2906873;Capim Grosso;9.271
+2906899;Caraíbas;13.737
+2906907;Caravelas;33.775
+2907004;Cardeal da Silva;3.440
+2907103;Carinhanha;45.658
+2907202;Casa Nova;23.022
+2907301;Castro Alves;17.516
+2907400;Catolândia;7.988
+2907509;Catu;10.163
+2907558;Caturama;16.931
+2907608;Central;2.684
+2907707;Chorrochó;5.450
+2907905;Cipó;3.968
+2908002;Coaraci;9.375
+2908101;Cocos;36.295
+2908200;Conceição da Feira;5.240
+2908309;Conceição do Almeida;11.744
+2908408;Conceição do Coit�;15.844
+2908507;Conceição do Jacuípe;5.082
+2908606;Conde;16.941
+2908705;Conde�ba;14.527
+2908804;Contendas do Sincorá;4.795
+2908903;Coração de Maria;11.468
+2909000;Cordeiros;7.532
+2909109;Coribe;46.192
+2909208;Coronel João Sá;25.329
+2909307;Correntina;73.317
+2909406;Cotegipe;80.411
+2909505;Cravolândia;2.677
+2909604;Crisópolis;27.441
+2909703;Cristópolis;20.776
+2909802;Cruz das Almas;3.934
+2909901;Curaçá;12.695
+2910008;Dário Meira;16.138
+2910057;Dias d`Ávila;738
+2910107;Dom Basílio;10.990
+2910206;Dom Macedo Costa;7.419
+2910305;Elísio Medrado;8.531
+2910404;Encruzilhada;23.232
+2910503;Entre Rios;16.258
+2900504;�rico Cardoso;7.023
+2910602;Esplanada;20.386
+2910701;Euclides da Cunha;36.375
+2910727;Eunápolis;40.815
+2910750;Fátima;13.380
+2910776;Feira da Mata;23.369
+2910800;Feira de Santana;27.393
+2910859;Filad�lfia;14.458
+2910909;Firmino Alves;16.370
+2911006;Floresta Azul;19.010
+2911105;Formosa do Rio Preto;43.276
+2911204;Gandu;2.052
+2911253;Gavião;9.642
+2911303;Gentio do Ouro;5.848
+2911402;Glória;3.313
+2911501;Gongogi;22.062
+2911600;Governador Mangabeira;2.220
+2911659;Guajeru;14.550
+2911709;Guanambi;41.440
+2911808;Guaratinga;109.877
+2911857;Heliópolis;17.298
+2911907;Iaçu;33.078
+2912004;Ibiassucê;11.241
+2912103;Ibicaraí;12.181
+2912202;Ibicoara;4.048
+2912301;Ibicuí;64.760
+2912400;Ibipeba;12.115
+2912509;Ibipitanga;18.236
+2912608;Ibiquera;11.473
+2912707;Ibirapitanga;2.385
+2912806;Ibirapuã;36.399
+2912905;Ibirataia;6.589
+2913002;Ibitiara;19.667
+2913101;Ibititá;8.688
+2913200;Ibotirama;15.685
+2913309;Ichu;3.182
+2913408;Igaporã;15.326
+2913457;Igrapi�na;299
+2913507;Iguaí;45.857
+2913606;Ilh�us;14.911
+2913705;Inhambupe;16.938
+2913804;Ipecaetá;13.407
+2913903;Ipia�;11.389
+2914000;Ipirá;73.587
+2914109;Ipupiara;6.603
+2914208;Irajuba;6.988
+2914307;Iramaia;23.237
+2914406;Iraquara;6.782
+2914505;Irará;4.883
+2914604;Irecê;5.026
+2914653;Itabela;27.730
+2914703;Itaberaba;44.214
+2914802;Itabuna;18.736
+2914901;Itacar�;2.995
+2915007;Itaet�;19.054
+2915106;Itagi;6.020
+2915205;Itagibá;61.103
+2915304;Itagimirim;44.978
+2915353;Itaguaçu da Bahia;13.380
+2915403;Itaju do Col�nia;50.581
+2915502;Itajuípe;4.806
+2915601;Itamaraju;151.977
+2915700;Itamari;2.749
+2915809;Itamb�;106.373
+2915908;Itanagra;6.171
+2916005;Itanh�m;120.487
+2916203;Itap�;32.241
+2916104;Itaparica;116
+2916302;Itapebi;46.772
+2916401;Itapetinga;84.757
+2916500;Itapicuru;25.094
+2916609;Itapitanga;24.769
+2916708;Itaquara;4.900
+2916807;Itarantim;126.776
+2916856;Itatim;5.404
+2917003;Iti�ba;31.867
+2916906;Itiruçu;7.000
+2917102;Itororó;18.580
+2917201;Ituaçu;10.887
+2917300;Ituberá;80
+2917334;Iui�;49.921
+2917359;Jaborandi;71.037
+2917409;Jacaraci;20.006
+2917508;Jacobina;21.958
+2917607;Jaguaquara;18.146
+2917706;Jaguarari;10.359
+2917805;Jaguaripe;6.659
+2917904;Jandaíra;10.241
+2918001;Jequi�;33.024
+2918100;Jeremoabo;39.242
+2918209;Jiquiriçá;4.196
+2918308;Jita�na;6.310
+2918357;João Dourado;6.715
+2918407;Juazeiro;14.113
+2918456;Jucuruçu;61.194
+2918506;Jussara;3.792
+2918555;Jussari;18.847
+2918605;Jussiape;6.792
+2918704;Lafaiete Coutinho;7.756
+2918753;Lagoa Real;14.379
+2918802;Laje;14.957
+2918909;Lajedão;28.927
+2919008;Lajedinho;10.259
+2919053;Lajedo do Tabocal;7.125
+2919108;Lamarão;4.446
+2919157;Lapão;9.146
+2919207;Lauro de Freitas;143
+2919306;Lençóis;1.720
+2919405;Licínio de Almeida;10.692
+2919504;Livramento de Nossa Senhora;27.608
+2919553;Luís Eduardo Magalhães;33.479
+2919801;Maca�bas;36.011
+2919603;Macajuba;10.708
+2919702;Macarani;58.266
+2919900;Macurur�;3.570
+2919959;Maetinga;7.051
+2920007;Maiquinique;40.245
+2920106;Mairi;25.136
+2920205;Malhada;44.474
+2920304;Malhada de Pedras;11.231
+2920403;Manoel Vitorino;24.885
+2920452;Mansidão;15.072
+2920700;Mara�;2.697
+2920502;Maracás;31.645
+2920601;Maragogipe;9.413
+2920809;Marcionílio Souza;26.044
+2920908;Mascote;25.561
+2921005;Mata de São João;8.553
+2921054;Matina;13.932
+2921104;Medeiros Neto;103.683
+2921203;Miguel Calmon;24.454
+2921302;Milagres;2.794
+2921401;Mirangaba;13.021
+2921450;Mirante;16.554
+2921500;Monte Santo;29.276
+2921609;Morpará;16.330
+2921708;Morro do Chap�u;25.528
+2921807;Mortugaba;10.789
+2921906;Mucugê;9.228
+2922003;Mucuri;28.391
+2922052;Mulungu do Morro;4.615
+2922102;Mundo Novo;53.562
+2922201;Muniz Ferreira;7.885
+2922250;Muqu�m de São Francisco;70.654
+2922300;Muritiba;1.564
+2922409;Mutuípe;7.429
+2922508;Nazar�;6.560
+2922607;Nilo Peçanha;535
+2922656;Nordestina;5.807
+2922706;Nova Canaã;51.772
+2922730;Nova Fátima;10.614
+2922755;Nova Ibiá;2.047
+2922805;Nova Itarana;5.165
+2922854;Nova Redenção;10.394
+2922904;Nova Soure;18.463
+2923001;Nova Viçosa;17.944
+2923035;Novo Horizonte;8.011
+2923050;Novo Triunfo;7.642
+2923100;Olindina;17.092
+2923209;Oliveira dos Brejinhos;30.435
+2923308;Ouriçangas;4.225
+2923357;Ourolândia;11.962
+2924058;P� de Serra;22.375
+2923407;Palmas de Monte Alto;48.033
+2923506;Palmeiras;1.946
+2923605;Paramirim;24.280
+2923704;Paratinga;33.905
+2923803;Paripiranga;11.673
+2923902;Pau Brasil;25.663
+2924009;Paulo Afonso;9.789
+2924108;Pedrão;3.341
+2924207;Pedro Alexandre;27.931
+2924306;Piatã;9.703
+2924405;Pilão Arcado;27.667
+2924504;Pindaí;20.221
+2924603;Pindobaçu;8.733
+2924652;Pintadas;26.537
+2924678;Piraí do Norte;1.892
+2924702;Piripá;7.868
+2924801;Piritiba;20.804
+2924900;Planaltino;16.477
+2925006;Planalto;20.242
+2925105;Poções;17.457
+2925204;Pojuca;3.634
+2925253;Ponto Novo;9.938
+2925303;Porto Seguro;44.656
+2925402;Potiraguá;67.059
+2925501;Prado;79.480
+2925600;Presidente Dutra;1.864
+2925709;Presidente Jânio Quadros;18.913
+2925758;Presidente Tancredo Neves;5.088
+2925808;Queimadas;38.217
+2925907;Quijingue;20.502
+2925931;Quixabeira;6.067
+2925956;Rafael Jambeiro;20.013
+2926004;Remanso;22.460
+2926103;Retirolândia;3.899
+2926202;Riachão das Neves;62.278
+2926301;Riachão do Jacuípe;32.389
+2926400;Riacho de Santana;48.524
+2926509;Ribeira do Amparo;14.184
+2926608;Ribeira do Pombal;35.913
+2926657;Ribeirão do Largo;53.831
+2926707;Rio de Contas;6.416
+2926806;Rio do Ant�nio;13.372
+2926905;Rio do Pires;10.264
+2927002;Rio Real;25.412
+2927101;Rodelas;844
+2927200;Ruy Barbosa;35.844
+2929701;Sátiro Dias;12.827
+2928901;São Desid�rio;62.959
+2928950;São Domingos;6.741
+2929008;São F�lix;4.816
+2929057;São F�lix do Coribe;35.403
+2929107;São Felipe;11.255
+2929206;São Francisco do Conde;5.976
+2929255;São Gabriel;4.236
+2929305;São Gonçalo dos Campos;10.896
+2929354;São Jos� da Vitória;2.037
+2929370;São Jos� do Jacuípe;11.850
+2929404;São Miguel das Matas;8.542
+2929503;São Sebastião do Pass�;22.050
+2929800;Sa�de;7.894
+2927309;Salinas da Margarida;160
+2927408;Salvador;67
+2927507;Santa Bárbara;5.630
+2927606;Santa Brígida;16.246
+2927705;Santa Cruz Cabrália;17.839
+2927804;Santa Cruz da Vitória;24.401
+2927903;Santa Inês;1.619
+2928059;Santa Luzia;9.454
+2928109;Santa Maria da Vitória;40.690
+2928406;Santa Rita de Cássia;83.529
+2928505;Santa Teresinha;6.878
+2928000;Santaluz;21.573
+2928208;Santana;40.440
+2928307;Santanópolis;5.190
+2928604;Santo Amaro;12.235
+2928703;Santo Ant�nio de Jesus;10.206
+2928802;Santo Estêvão;8.757
+2929602;Sapeaçu;5.240
+2930758;Sítio do Mato;35.200
+2930766;Sítio do Quinto;21.563
+2929750;Saubara;154
+2929909;Seabra;11.125
+2930006;Sebastião Laranjeiras;24.109
+2930105;Senhor do Bonfim;13.529
+2930204;Sento S�;25.853
+2930154;Serra do Ramalho;60.635
+2930303;Serra Dourada;52.407
+2930402;Serra Preta;19.260
+2930501;Serrinha;11.655
+2930600;Serrolândia;7.577
+2930709;Simões Filho;655
+2930774;Sobradinho;2.388
+2930808;Souto Soares;3.719
+2930907;Tabocas do Brejo Velho;25.224
+2931004;Tanhaçu;23.351
+2931053;Tanque Novo;11.882
+2931103;Tanquinho;7.080
+2931202;Taperoá;592
+2931301;Tapiramutá;18.921
+2931350;Teixeira de Freitas;79.358
+2931400;Teodoro Sampaio;8.390
+2931509;Teofilândia;9.684
+2931608;Teolândia;1.849
+2931707;Terra Nova;11.401
+2931806;Tremedal;23.124
+2931905;Tucano;31.176
+2932002;Uauá;9.004
+2932101;Ubaíra;14.706
+2932200;Ubaitaba;10.137
+2932309;Ubatã;2.831
+2932408;Uibaí;3.649
+2932457;Umburanas;5.275
+2932507;Una;5.190
+2932606;Urandi;20.566
+2932705;Uruçuca;2.903
+2932804;Utinga;7.748
+2933059;Várzea da Roça;14.107
+2933109;Várzea do Poço;5.507
+2933158;Várzea Nova;12.580
+2932903;Valença;4.386
+2933000;Valente;6.383
+2933174;Varzedo;8.314
+2933208;Vera Cruz;483
+2933257;Vereda;51.103
+2933307;Vitória da Conquista;74.840
+2933406;Wagner;4.018
+2933455;Wanderley;58.928
+2933505;Wenceslau Guimarães;4.137
+2933604;Xique-Xique;22.127
+Fonte: IBGE; Censo Agropecuário 2017;
